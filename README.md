@@ -34,4 +34,6 @@ npm run production
 php artisan serve
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/bildukas2/public-coffeeBord/blob/master/public_html/public/1.jpg)
+
+![alt text](https://github.com/bildukas2/public-coffeeBord/blob/master/public_html/public/2.jpg)
